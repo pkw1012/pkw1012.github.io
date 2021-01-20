@@ -25,5 +25,5 @@ plugins:
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
 # Disqus comments
-disqus_url:         "https://pkw1012.github.io"
-disqus_id:          "pkw1012.github.io"
+disqus_url:         "https://pkw1012.disqus.com"
+disqus_id:          "pkw1012"
