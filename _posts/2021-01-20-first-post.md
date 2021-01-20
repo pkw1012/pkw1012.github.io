@@ -4,6 +4,7 @@ title: "My First Post"
 subtitle: "첫 포스팅"
 date: 2021-01-20
 background: '/img/posts/01.jpg'
+comments: true
 ---
 
 ## 첫 포스팅입니다!
